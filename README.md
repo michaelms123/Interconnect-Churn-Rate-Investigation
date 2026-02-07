@@ -53,15 +53,16 @@ Customers may pay monthly or sign a **1-year** or **2-year** contract, use diffe
    - Fix data types (especially date fields)
    - Encode categorical features
 4. **Feature engineering**
-   - Convert contract dates into duration-based features
-   - Create churn target from `EndDate`
+   - Converted contract dates into duration-based features
+   - Created churn target from `EndDate`
 5. **Model training**
-   - Train multiple models
-   - Use cross-validation
+   - Trained multiple models
+   - Established baseline with logistic regression
 6. **Model evaluation**
-   - Compare AUC-ROC and Accuracy
+   - Compared AUC-ROC and Accuracy
 7. **Final model selection**
-8. **Conclusions and recommendations**
+   - Opted for XGBoost in the final analysis
+9. **Conclusions and recommendations**
 
 ## Model Output (Fill After Training)
 | Model | AUC-ROC | Accuracy |
