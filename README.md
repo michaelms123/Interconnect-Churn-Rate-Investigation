@@ -64,7 +64,7 @@ Customers may pay monthly or sign a **1-year** or **2-year** contract, use diffe
    - Opted for XGBoost in the final analysis
 9. **Conclusions and recommendations**
 
-## Model Output (Fill After Training)
+## Model Output
 | Model | AUC-ROC | Accuracy |
 |------|---------|----------|
 | Baseline | 0.87 | 0.76 |
